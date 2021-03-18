@@ -78,3 +78,9 @@ Currently, the only CI/CD system that is used is netlify. It is used to deploy d
 
 Primary build system used is GNU Make. In some cases (unittesting.examples)
 a build system for the language is used
+
+
+## Required Reading List
+
+- [Forking Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+- [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
