@@ -1,9 +1,6 @@
 # CS3560 - Example Project
 
-This repo is used for other students to practice git pull requests.
-
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
-This project is also used for students to practice with git pull requests
 
 This is a simple project that contains some of the tools used in the class. For example,
 
@@ -15,6 +12,7 @@ This is a simple project that contains some of the tools used in the class. For 
 - Travis CI (The idea of integrating this into class is heavily influenced by Mr. Robert Foreman).
 - maybe Google Test Framework (using Docker image)
 - This repo is also used for students to practice git pull requests
+
 
 ## Git with commit message in Conventional Commits
 
@@ -33,7 +31,7 @@ to [https://ou-cs3560-examples.netlify.com/](https://ou-cs3560-examples.netlify.
 
 1. Open the Command Prompt or Windows PowerShell. It can be opened in various methods:
    - For the Command Prompt, type in WINDOWS-R, then type in "cmd" in the dialog box.
-   - Bring up start menu, and serach for "Command Prompt" or "PowerShell"
+   - Bring up start menu, and search for "Command Prompt" or "PowerShell"
 
 2. In the window with the command prompt (or powershell), type in the command for ssh:
 
@@ -161,7 +159,7 @@ https://stackoverflow.com/questions/58400564/tcl-tk-tkinter-not-installing-via-h
 - This label describes the type of issue or pull request it is. It is structured this way type:<what type it is>.
 - Examples: type: bug, type: fix, type: feature, etc...
   - type: bug - this means that something isn't working
-  - type: chore - this means that there needs to be reorganizing done of the folder structure and other necessary tasks, but they earn't very impaction to the code
+  - type: chore - this means that there needs to be reorganizing done of the folder structure and other necessary tasks, but they aren't very impaction to the code
   - type: docs - this means that something related to documentation or information needs addressed
   - type: discussion - this means that there are questions, proposals, and other information that requires discussion
   - type: feature - this means that there is a brand new functionality, features, pages, workflows, endpoints, etc..
@@ -180,8 +178,7 @@ https://stackoverflow.com/questions/58400564/tcl-tk-tkinter-not-installing-via-h
 
 **Other Labels:**
 - These labels don't use a prefix just like the standard labels.
-  - semantic-release - this uses the commit messages to determine the type of changes in the codebase, it automatically determines the nest semantic version number      
-                     and generates a changelog and publishes the release.
+  - semantic-release - this uses the commit messages to determine the type of changes in the codebase, it automatically determines the nest semantic version number and generates a changelog and publishes the release.
   - greenkeeper - this gives real-time automated dependency updates for npm and GitHub
 
 
