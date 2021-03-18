@@ -9,13 +9,13 @@ For Makefile related examples, please see `make.example\d+`. For focus examples 
 
 ### Forking the repository
 
-First thing that you will notice is that you cannot make any push to the repository directly. This is usually the case for all open-source projects.
+The first thing that you will notice is that you cannot make any push to the repository directly. This is usually the case for all open-source projects.
 What you have to do is fork the repository to your own GitHub account. With this new repository, you will have full control over the
 repository including the ability to push commits.
 
 ### Adding a new remote that refer to the original repository
 
-We will now refer to OU-CS3560/examples repository as upstream repository, and the forked one will be referred to as origin. To
+We will now refer to the OU-CS3560/examples repository as upstream repository, and the forked one will be referred to as origin. To
 be able to get new commits from the upstream repository, you can add a new remote
 
 ```console
@@ -43,8 +43,7 @@ to your remote repository (the `origin` on GitHub.com).
 
 ### Create a new branch
 
-From last section, you can see that new changes will be merged to master, so it is recommended to create a new branch for any
-of the work that you want to work on, and leave master untouched. Otherwise, next time that you are updating your fork, there
+From last section, you can see that new changes will be merged to master, so it is recommended to create a new branch for anything that you want to work on, and leave master untouched. Otherwise, the next time that you are updating your fork, there
 will be too many merge conflicts to solve.
 
 At this point you should notice that one branch can only create one pull request, so if you want to work on multiple pull
@@ -52,7 +51,7 @@ request, you will need multiple branches.
 
 ### Create a pull request
 
-After you finish part or all of the work, it is when the pull request is coming in. To be able to create one, you will need to "compare across fork"
+After you finish part or all of the work, this when the pull request comes in. To be able to create one, you will need to "compare across fork"
 and select a branch from your repository.
 
 For HW9, TA will then go over your pull request. If the TA requests some changes to your pull request, you can create
