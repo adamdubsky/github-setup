@@ -13,7 +13,6 @@ This is a simple project that contains some of the tools used in the class. For 
 - maybe Google Test Framework (using Docker image)
 - This repo is also used for students to practice git pull requests
 
-
 ## Git with commit message in Conventional Commits
 
 Some of the commit messages in this repository are following the Conventional Commit style
