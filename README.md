@@ -1,14 +1,11 @@
 # CS3560 - Example Project
 
-This repo is used for other students to practice git pull requests.
-
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
-This project is also used for students to practice with git pull requests
 
 This is a simple project that contains some of the tools used in the class. For example,
 
 - .gitignore
-- Git with commit message in Commitizen convention ([https://commitizen.github.io/cz-cli/](https://commitizen.github.io/cz-cli/)).
+- Git with commit message in Conventional Commits ([https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)).
 - Makefile
 - Doxygen with Netlify
 - Catch2
@@ -16,12 +13,11 @@ This is a simple project that contains some of the tools used in the class. For 
 - maybe Google Test Framework (using Docker image)
 - This repo is also used for students to practice git pull requests
 
-This project is also for students to practice pull requests.
 
-## Git with commit message in Commitizen convention
+## Git with commit message in Conventional Commits
 
-Some of the commit messages in this repository are following the Commitizen convention
-([https://commitizen.github.io/cz-cli/](https://commitizen.github.io/cz-cli/)).
+Some of the commit messages in this repository are following the Conventional Commit style
+([https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)).
 
 ## Doxygen with Netlify
 
