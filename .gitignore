@@ -13,6 +13,9 @@ core
 # Generated documentation
 html/
 
+temp
+tmp
+
 # vscode
 *.code-workspace
 *.ipch
