@@ -13,13 +13,13 @@ Git will tell you
 Login failed, use ctrl+c to cancel basic credential prompt.
 ```
 
-and prompt you for credential again in the command line.
+and prompt you for credentials again in the command line.
 
 ![login-fail](./images/git-login-fail.png)
 
 ## How to solve it
 
-We will solve this by adding the token manually with
+We will solve this issue by adding the token manually with
 `git credential-manager store`. Run the command and type in
 the following (there will be no prompt).
 
@@ -37,7 +37,7 @@ Then hit enter twice after you type in the last line. Your username
 and token should now be saved and git command should not
 ask for username and password anymore.
 
-## Why it fails?
+## Why does it fail?
 
 Somehow GCM (Git Credential Manager for Windows), receive 404
 response code from GitHub when it try to ask if the token is valid.
