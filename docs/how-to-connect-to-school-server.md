@@ -2,22 +2,22 @@
 
 ## Windows
 
-1. Open the Command Prompt or Windows PowerShell. It can be opened in various methods:
+1. Open the Command Prompt or Windows PowerShell. It can be opened through various methods:
    - For the Command Prompt, type in WINDOWS-R, then type in "cmd" in the dialog box.
    - Bring up start menu, and search for "Command Prompt" or "PowerShell"
 
-2. In the window with the command prompt (or powershell), type in the command for ssh:
+2. In the window with the command prompt (or powershell), type in this command for ssh:
 
 ```console
 ssh username@pu1.cs.ohio.edu
 ```
 
-Don't forget to replace the `username` with your actual username (it is not the same one as the email handle). If you forget your username, or password you can contact the system administrator, Mr. Carl Hawes.
+Don't forget to replace `username` with your actual username (it is not the same one as your email handle). If you forget your username, or password you can contact the system administrator, Mr. Carl Hawes.
 
-If the error mentioned the ssh command not found, you need to enable OpenSSH client feature by search for "Manage optional features" in the start menu,
+If the error mentioned the ssh command is not found, you need to enable the OpenSSH client feature by searching for "Manage optional features" in the start menu,
 and click "Add a feature", then search for "OpenSSH Client", and install it.
 
-For example, here is the output from the using `ssh changliu@pu1.cs.ohio.edu` in command prompt
+For example, here is the output from putting `ssh changliu@pu1.cs.ohio.edu` in command prompt
 
 ```console
 C:\Users\Chang Liu>ssh changliu@pu1.cs.ohio.edu
