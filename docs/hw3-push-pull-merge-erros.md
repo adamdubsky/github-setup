@@ -1,6 +1,6 @@
 # Errors during git push/pull/merge
 
-When I try to push my commits to GitHub, I got an error
+When I try to push my commits to GitHub, I get an error
 
 ```console
 To github.com:OU-CS3560/hw3-git-p1-entire-class-s20-21.git
@@ -13,18 +13,18 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ```
 
-This is happening when someone else is pushing their commits to GitHub before you do.
+This occurs when someone else is pushing their commits to GitHub before you do.
 Dr. Liu went over this in the lecture on 02/02/2021, you can also review that. This
 document however, will go over it step by step. You can also read through
 this article [https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts](https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts)
 
-If you read the error message carefully, you will notice that Git hint at you to perform pull before you are trying to push again.
+If you read the error message carefully, you will notice that Git hints at you to perform pull before you are trying to push again.
 
 ```console
 $ git pull
 ```
 
-At this points various situations can happen.
+At this point various situations can occur.
 
 1. Not possible to fast-forward
 2. Merge conflict
@@ -70,7 +70,7 @@ The main message is that
 > and have 1 and 12 different commits each, respectively.
 >  (use "git pull" to merge the remote branch into yours)
 
-Git is suggesting that you run `git pull`, but we did run it already and it failed (remember "fatal: Not possible to fast-forward, aborting").
+Git is suggesting that you run `git pull`, but we already ran it and it failed (remember "fatal: Not possible to fast-forward, aborting").
 
 If you run, `git log --graph --all --decorate --oneline`, you will see the diverging commits. Your
 result may be different.
