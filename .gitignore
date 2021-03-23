@@ -8,10 +8,28 @@ main
 
 Thumbs.db
 .DS_Store
+core
 
 # Generated documentation
 html/
 
 # vscode
 *.code-workspace
+*.ipch
+*.log
+*.tlog
+*.lastbuildstate
+*.db
+.suo
+.vs
+*.idb
+Debug
+*.Identifier
+*.sln
+*.vcxproj*
+
+
+*.zip
+*.lnk
+
 TravelPlan
