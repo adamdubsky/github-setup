@@ -2,7 +2,7 @@
 
 ## Symptoms
 
-When attempt to clone, a window (see image below) will reject all the
+When attempting to clone, a window (see image below) will reject all the
 combinations of username/email and password/token.
 
 ![github-prompt](./images/github-prompt.png)
@@ -39,7 +39,7 @@ ask for username and password anymore.
 
 ## Why does it fail?
 
-Somehow GCM (Git Credential Manager for Windows), receive 404
+Somehow GCM (Git Credential Manager for Windows) receives a 404
 response code from GitHub when it try to ask if the token is valid.
 
 Resources used
