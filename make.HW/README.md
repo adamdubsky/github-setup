@@ -1,0 +1,1 @@
+This folder contains files from HW-Makefile-SampleProject.zip.
