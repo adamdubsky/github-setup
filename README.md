@@ -23,3 +23,8 @@ Some of the commit messages in this repository are following the Conventional Co
 The `fib` example contains configuration of [Doxygen](http://www.doxygen.nl/) (`fib/Doxygfile`) and [Netlify](https://www.netlify.com/) (`netlify.toml`)
 that automatically build doxygen (using `cd fib && make doc`), and publish the generated document
 to [https://ou-cs3560-examples.netlify.com/](https://ou-cs3560-examples.netlify.com/).
+
+## Helpful Links
+
+- https://www.ohio.edu/oit/services/device/virtual-desktops
+- ssh YOURNAME@pu1.cs.ohio.edu
