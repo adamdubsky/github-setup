@@ -3,6 +3,7 @@
 An example project that uses Doxygen, Makefile, Catch2, Travis CI.
 
 This is a simple project that contains some of the tools used in the class. For example,
+This repo is also used for students to practice git pull requests
 
 - .gitignore
 - Git with commit message in Conventional Commits ([https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)).
