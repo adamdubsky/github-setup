@@ -12,6 +12,7 @@ This is a simple project that contains some of the tools used in the class. For 
 - Travis CI (The idea of integrating this into class is heavily influenced by Mr. Robert Foreman).
 - maybe Google Test Framework (using Docker image)
 - This repository is also used for students to practice git pull requests
+- This repository helps students practice git pull requests and to get points on quiz
 
 ## Git with commit message in Conventional Commits
 
