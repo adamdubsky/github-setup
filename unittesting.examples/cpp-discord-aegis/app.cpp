@@ -65,7 +65,7 @@ int main(int argc, char * argv[])
                     {
                         if (reply)
                         {
-                            // reaction was a success. chain another?
+                            // Reaction was a success, chain another?
                             msg.create_reaction("fail:429554869611921408").then([&](aegis::rest::rest_reply reply)
                             {
                                 if (reply)
