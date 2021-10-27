@@ -8,7 +8,7 @@
 
 /**
  * Calculates fibonacci number recursively given a number 'n'
- * 
+ * @param n of type int
  * @return int
  */
 int fib_recursive(int n) {
@@ -26,7 +26,7 @@ int fib_recursive(int n) {
 
 /**
  * Calculates fibonacci number iteratively given a number 'n'
- * 
+ * @param n of type int
  * @return int
  */
 int fib_iterative(int n) {
