@@ -9,15 +9,16 @@ This is a simple project that contains some of the tools used in the class. For 
 - Makefile
 - Doxygen with Netlify
 - Catch2
-- Travis CI (The idea of integrating this into class is heavily influenced by Mr. Robert Foreman).
+- Travis CI (to be moved to Github Actions).
 - maybe Google Test Framework (using Docker image)
 - This repository is also used for students to practice git pull requests
 
 ## Contributions that will be welcomed
 
-- Converting Travis CI actions to Github Actions (or just add Githut Actions)
+- Converting Travis CI actions (if any) to Github Actions (or just add Github Actions)
 - A new simple coding project suitable for unit testing and documentation exercises (just like the fib or is_prime examples)
 - Add an is_prime project with implementations in any of the languages.
+- Further complete the .gitignore file for additional languages. Make sure it's well documented which extension is for what.
 
 ## Git with commit message in Conventional Commits
 
