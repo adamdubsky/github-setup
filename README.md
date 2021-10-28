@@ -13,6 +13,12 @@ This is a simple project that contains some of the tools used in the class. For 
 - maybe Google Test Framework (using Docker image)
 - This repository is also used for students to practice git pull requests
 
+## Contributions that will be welcomed
+
+- Converting Travis CI actions to Github Actions (or just add Githut Actions)
+- A new simple coding project suitable for unit testing and documentation exercises (just like the fib or is_prime examples)
+- Add an is_prime project with implementations in any of the languages.
+
 ## Git with commit message in Conventional Commits
 
 Some of the commit messages in this repository are following the Conventional Commit style
