@@ -1,8 +1,8 @@
-# CS3560 Example Project
+# CS3560 Example Projects
 
-An example project that uses Doxygen, Makefile, Catch2, Travis CI.
+This is an example project that uses Doxygen, Makefile, Catch2, and of course Git.
 
-This is a simple project that contains some of the tools used in the class. For example,
+This is a simple project that contains some of the tools used in the class, including:
 
 - .gitignore
 - Git with commit message in Conventional Commits ([https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)).
