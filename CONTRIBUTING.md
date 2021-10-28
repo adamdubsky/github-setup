@@ -61,7 +61,7 @@ request, you will need multiple branches.
 After you finish part or all of the work, this when the pull request comes in. To be able to create one, you will need to "compare across fork"
 and select a branch from your repository.
 
-For HW9, TA will then go over your pull request. If the TA requests some changes to your pull request, you can create
+For HW10, TA will then go over your pull request. If the TA requests some changes to your pull request, you can create
 more commits that address the issues. When you push these new commits to your forked, GitHub should update pull request
 automatically.
 
@@ -74,7 +74,7 @@ And this commit should not be included in the repository.
 What you can do is to
 
 1. Create a new branch at your latest commit on master branch.
-2. On master branch run `git reset --hard <commit-id>`. For HW9 of Spring 2020-2021, you can replace the
+2. On master branch run `git reset --hard <commit-id>`. For HW10 of Fall 2021-2022, you can replace the
    `commit-id>` with `ae4b482b6eba0d7083fef272f3c3e6eaa335b2c1`. For other cases, replace `<commit-id>` with
    an appropriate one.
 3. Retrieve and merge new commits to your forked master branch (as described earlier).
