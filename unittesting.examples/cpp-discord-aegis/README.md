@@ -27,7 +27,7 @@
    .\vcpkg\vcpkg.exe remove openssl zlib
    ```
 
-4. Open the folder in Visual Studio. There will be an error, this is ecpected.
+4. Open the folder in Visual Studio. There will be an error, this is expected.
 
 5. Edit the CMakeLists.txt's settings.
 
