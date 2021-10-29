@@ -1,7 +1,8 @@
+// Date: 10/28/2021
 // Author: Reilly Schultz
 // This program implements a solution to the sum of squares problem
 // based on Lagrange's theorem that any number can be represented in
-// the sum of four or fewer squares
+// the sum of four or fewer squares.
 
 fn main(){
     for i in 1..50001{
