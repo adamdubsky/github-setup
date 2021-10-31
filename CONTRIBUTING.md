@@ -116,7 +116,7 @@ a build system for the language is used
 - This label describes the type of issue or pull request it is. It is structured this way type:<what type it is>.
 - Examples: type: bug, type: fix, type: feature, etc...
   - type: bug - this means that something isn't working
-  - type: chore - this means that there needs to be reorganizing done of the folder structure and other necessary tasks, but they aren't very impaction to the code
+  - type: chore - this means that reorganization of the folder structure and other necessary tasks need to be done, but they don't impact the code much.
   - type: docs - this means that something related to documentation or information needs addressed
   - type: discussion - this means that there are questions, proposals, and other information that requires discussion
   - type: feature - this means that there is a brand new functionality, features, pages, workflows, endpoints, etc..
