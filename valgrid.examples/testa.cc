@@ -42,7 +42,7 @@ int main(int argc, char** argv)
       vec[i] = i;
   }
   ///integer declaring the sum (will be wrong due to not initializing to 0)
-  int sum;
+  int sum = 0;
   /// for loop that goes from index 0 to index 10
   for (int i = 0; i <= 10; i++) 
   {

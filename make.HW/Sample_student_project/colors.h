@@ -31,7 +31,7 @@
 using namespace std;
 
 const string BLINK     = "\e[5m";          //don't use this your
-					   //professor will probibly
+					   //professor will probably
 					   //beat you to death if
 					   //you do feel the need to
 					   //use blink!!!
