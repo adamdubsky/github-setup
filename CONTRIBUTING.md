@@ -18,7 +18,7 @@ For students in CS3560, here are the required readings.
 
 The first thing that you will notice is that you cannot make any push to the repository directly. This is usually the case for all open-source projects.
 What you have to do is fork the repository to your own GitHub account. With this new repository, you will have full control over the
-repository including the ability to push commits.
+repository including the ability to push commits. To do this click on the fork button in the top right.
 
 ### Adding a new remote that refers to the original repository
 
@@ -90,18 +90,18 @@ a build system for the language is used
 
 **Standard Labels:**
 - These are standard labels that can be commonly used in repositories to help identify what the pull request or issue needs
-- breaking - Introduces a breaking change. 
+- breaking - Introduces a breaking change.
 - good first issue - Indicates a good first issue for first-time contributors.
-- help - Indicates that the maintainer wants help in an issue or pull request. 
+- help - Indicates that the maintainer wants help in an issue or pull request.
 
 **Effort Labels:**
-- The label effort:<number> indicates the relative effort needed to complete this pull request or issue. 
-- These labels use a scale of Fibonacci numbers from 1 to 13. 
+- The label effort:<number> indicates the relative effort needed to complete this pull request or issue.
+- These labels use a scale of Fibonacci numbers from 1 to 13.
 - Examples: effort: 1, effort: 13, effort: 8
 
 **Priority Labels:**
 - These labels let the users know how urgent these issues or pull requests are, giving them a time frame of when they need to be resolved
-- These labels start with 'priority' then are followed by the time frame. 
+- These labels start with 'priority' then are followed by the time frame.
 - Examples: priority: now, priority: 2day, priority: soon
 
 **State Labels:**
@@ -125,8 +125,8 @@ a build system for the language is used
   - type: testing - this means that this thing is related to the testing process
 
 **Work Labels:**
-- These Labels describe the kind of work involved in resolving the issue using Cynefin framework. 
- Cynefin framework is a framework used in decision making, it offers different domains to help managers to characterize situations and make sense of behavior. 
+- These Labels describe the kind of work involved in resolving the issue using Cynefin framework.
+ Cynefin framework is a framework used in decision making, it offers different domains to help managers to characterize situations and make sense of behavior.
 - Examples : work: complex, work: obvious
   - work: chaotic - this means the situation is chaotic and that novel practices were used
   - work: complex - this means that the situation is complex and that emergent practices were used
@@ -137,4 +137,3 @@ a build system for the language is used
 - These labels don't use a prefix just like the standard labels.
   - semantic-release - this uses the commit messages to determine the type of changes in the codebase, it automatically determines the nest semantic version number and generates a changelog and publishes the release.
   - greenkeeper - this gives real-time automated dependency updates for npm and GitHub
-
