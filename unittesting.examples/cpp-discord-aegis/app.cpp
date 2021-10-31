@@ -28,7 +28,7 @@ int main(int argc, char * argv[])
         {
             try
             {
-                //get snowflakes related to this message
+                //Get snowflakes related to this message
                 // C++17 version
                 //const auto [channel_id, guild_id, message_id, member_id] = obj.msg.get_related_ids();
                 const aegis::snowflake channel_id = obj.msg.get_channel().get_id();
