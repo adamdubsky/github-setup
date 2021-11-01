@@ -32,13 +32,13 @@ int main()
    vec.resize(10);
 
    /// For loop that goes through the indicies
-   for (int i = 0;i <= 10; i++) 
+   for (int i = 0;i < 10; i++) 
    {
       vec[i] = i;
    }
    int sum;
    /// For loop that adds up the sum of the vector
-   for (int i = 0; i <= 10; i++) 
+   for (int i = 0; i < 10; i++) 
    {
        sum += vec[i];
    }

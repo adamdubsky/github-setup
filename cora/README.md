@@ -22,7 +22,7 @@ The .content file contains descriptions of the papers in the following format:
 
 		<paper_id> <word_attributes>+ <class_label>
 
-The first entry in each line contains the unique string ID of the paper followed by binary values indicating whether each word in the vocabulary is present (indicated by 1) or absent (indicated by 0) in the paper. Finally, the last entry in the line contains the class label of the paper.
+The first entry in each line contains an unique string ID of the paper followed by binary values indicating whether or not each word in the vocabulary is present (indicated by 1) or absent (indicated by 0) in the paper. Finally, the last entry in the line contains the class label of the paper.
 
 The .cites file contains the citation graph of the corpus. Each line describes a link in the following format:
 
