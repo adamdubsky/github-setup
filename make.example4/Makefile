@@ -1,6 +1,6 @@
 # Try to answer the following questions by yourself first.
 # 1. What is overall behavior of this Makefile?
-# 2. Explain briefly what each target does.
+# 2. Explain briefly what each target do.
 # 3. If the weather is not sunny, how can we force the compilation?
 # 4. If there exist helloworld-dist.tar.gz, will tar command run?
 
