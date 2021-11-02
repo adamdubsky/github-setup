@@ -14,7 +14,7 @@
  * @brief An example bot
  *
  * It will response to message prefixed with ++, and add
- * reaaction to message.
+ * reaction to message.
  */
 class MyBot : public SleepyDiscord::DiscordClient {
     private:

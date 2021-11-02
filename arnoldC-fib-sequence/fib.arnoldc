@@ -1,0 +1,62 @@
+IT'S SHOWTIME
+
+    HEY CHRISTMAS TREE maxVal
+    YOU SET US UP 8
+
+    HEY CHRISTMAS TREE i 
+    YOU SET US UP 0
+
+    HEY CHRISTMAS TREE j
+    YOU SET US UP 1
+
+    HEY CHRISTMAS TREE term
+    YOU SET US UP 0
+
+    HEY CHRISTMAS TREE count
+    YOU SET US UP 0
+
+    HEY CHRISTMAS TREE lessThan
+    YOU SET US UP 1
+
+    TALK TO THE HAND 0
+    TALK TO THE HAND 1
+
+    STICK AROUND lessThan
+
+        GET TO THE CHOPPER term
+            HERE IS MY INVITATION i 
+            GET UP j
+        ENOUGH TALK 
+
+        TALK TO THE HAND term
+
+        GET TO THE CHOPPER i
+            HERE IS MY INVITATION j
+        ENOUGH TALK
+
+        GET TO THE CHOPPER j
+            HERE IS MY INVITATION term
+        ENOUGH TALK
+
+        GET TO THE CHOPPER count
+            HERE IS MY INVITATION count
+            GET UP 1
+        ENOUGH TALK
+
+        GET TO THE CHOPPER lessThan
+            HERE IS MY INVITATION maxVal
+            LET OFF SOME STEAM BENNET count
+        ENOUGH TALK
+
+    CHILL
+
+    GET TO THE CHOPPER count
+        HERE IS MY INVITATION count
+        GET UP 2
+    ENOUGH TALK
+
+    TALK TO THE HAND "********************"
+    TALK TO THE HAND "Sequence up to: " 
+    TALK TO THE HAND count
+    
+YOU HAVE BEEN TERMINATED
