@@ -19,7 +19,7 @@ public:
 	virtual ~game( ) { }
 
 	// PUBLIC MEMBER FUNCTIONS
-	// The play function should not be overridden. It plays one game,
+	// The play function should not be overwritten. It plays one game,
 	// with the human player moving first and the computer second.
 	// The computer uses an alpha-beta look ahead algorithm to select its
 	// moves. The return value is the winner of the game (or NEUTRAL for
@@ -44,7 +44,7 @@ protected:
 	virtual who winning( ) const;
 
 	// *******************************************************************
-	// VIRTUAL FUNCTIONS THAT MUST BE OVERRIDDEND:
+	// VIRTUAL FUNCTIONS THAT MUST BE OVERWRITTEN:
 	// The overriding function should call the original when it finishes.
 	// *******************************************************************
 	// Have the next player make a specified move:
