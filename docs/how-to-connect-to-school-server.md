@@ -12,7 +12,7 @@
 ssh username@pu1.cs.ohio.edu
 ```
 
-Don't forget to replace `username` with your actual username (it is not the same one as your email handle). If you forget your username or password you can contact the system administrator, Mr. Carl Hawes.
+Don't forget to replace `username` with your actual username (it is not the same one as your email handle). If you forget your username or password you can contact the system administrator, Mr. Carl Hawes (hawes@ohio.edu).
 
 If the error mentioned the ssh command is not found, you need to enable the OpenSSH client feature by searching for "Manage optional features" in the start menu,
 and click "Add a feature", then search for "OpenSSH Client" and install it.

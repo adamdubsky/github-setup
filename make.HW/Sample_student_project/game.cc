@@ -19,7 +19,7 @@ namespace main_savitch_14
 
 game::who game::play( )
 // The play function should not be overridden. It plays one round of the
-// game, with the human player moving first and the computer second.
+// game with the human player moving first and the computer moving second.
 // The return value is the winner of the game (or NEUTRAL for a tie).
 {
 	restart( );
@@ -50,7 +50,11 @@ void game::display_message(const string& message) const
 	cout << message;
 }
 
+
 string game::get_user_move( ) const
+// get_user_move() displays options for the user in order to obtain their move.
+// Some moves are not available, in which the user will enter 'S'
+// The return value is a string that contains the user's move
 {
 	string answer;
 
