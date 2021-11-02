@@ -58,7 +58,8 @@ The most important parts are the input tag, button tag, and the p tag. These def
 
 You can open this file in a browser and it should display something similar to this.
 
-IMAGE
+![image](https://user-images.githubusercontent.com/54723539/139168950-3287b709-317c-44d6-9a6e-5aa1041e4420.png)
+
 
 If you try to interact with it, nothing will happen. If you open the console of the developer tool (SEE: HOW TO OPEN DEV TOOL), you will see an error that the `main.js` cannot be loaded.
 
