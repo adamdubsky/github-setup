@@ -1,6 +1,10 @@
-//Akshobh Mirapurkar
-//HW11: Ballot cryptograph
-//November 12, 2019
+/**
+ * @file HW11.cc
+ * @brief A Ballot Cryptograph
+ * @date November 12, 2019
+ * @author Akshobh Mirapurkar
+ */
+
 #include<iostream>
 #include<fstream>
 #include<vector>
