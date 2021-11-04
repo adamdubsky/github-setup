@@ -39,5 +39,6 @@ to [https://ou-cs3560-examples.netlify.com/](https://ou-cs3560-examples.netlify.
 - https://www.youtube.com/watch?v=nT8KGYVurIU (Info on Forking & Pull Requests)
 - ssh YOURNAME@pu1.cs.ohio.edu
 
-## Issue 6
-This repository is often used for students to experiment with github pull requests
+
+## This project is also used by students to help them practice pull requests
+
