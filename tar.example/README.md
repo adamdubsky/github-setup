@@ -1,12 +1,19 @@
+## To copy a few source code files over to experiement with the following commands:
+
+```
+$ cp ../fib/*.cc .
+$ cp ../fib/*.h .
+```
+
 ## Create an archive
 
 ```console
-$ tar cvf archive.tar *.md *.cc
+$ tar cvf archive.tar *.md *.cc *.h
 ```
 To zip archive while creating it
 
 ```console
-$ tar czvf archive.tar.gz *.md *.cc
+$ tar czvf archive.tar.gz *.md *.cc *.h
 ```
 
 To zip archive after creating it without `z` option.
@@ -27,3 +34,4 @@ $ tar tvf archive.tar
 $ tar xvf archive.tar
 
 ```
+
