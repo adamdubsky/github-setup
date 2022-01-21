@@ -10,11 +10,16 @@ $ cp ../fib/*.h .
 ```console
 $ tar cvf archive.tar *.md *.cc *.h
 ```
+* c - means creating an archive
+* v - means "verbose" mode, printing out the filenames as the files are processed
+* f - means the next command line parameter is the name of the archive file.
+
 To zip archive while creating it
 
 ```console
 $ tar czvf archive.tar.gz *.md *.cc *.h
 ```
+* z - means using compression.
 
 To zip archive after creating it without `z` option.
 
