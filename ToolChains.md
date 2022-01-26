@@ -1,6 +1,12 @@
 # C++
 
+* Valgrind
+* Doxygen
+
 # Java
+
+* jUnit
+* JavaDoc
 
 ## Android
 
