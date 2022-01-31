@@ -23,7 +23,7 @@ build: main
 #
 # This target depends on main.o since it uses this
 # object file to create an executable.
-main: main.o fib.o fib_cache.o
+main: main.o fib.o fib_cache.o fib_fast_double.o
 # LDFLAGS is used because this command only link object file to an executable file.
 # $@ is referring to main (the name of the target).
 # $< refers to main.o (the first entry in the dependency list of this target).
@@ -39,6 +39,9 @@ fib.o: fib.cc fib.h
 	$(CXX) $(CXXFLAGS) -o $@ $<
 
 fib_cache.o: fib_cache.cc fib_cache.h
+	$(CXX) $(CXXFLAGS) -o $@ $<
+
+fib_fast_double.o: fib_fast_double.cc
 	$(CXX) $(CXXFLAGS) -o $@ $<
 
 # This target is to create an archive file containing the source code.
