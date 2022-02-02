@@ -1,6 +1,6 @@
 # Fibonacci Library
 
-A sample library to calculate Fibonacci number.
+A sample library to calculate Fibonacci numbers.
 
 Run `make doc` to generate the documentation.
 
