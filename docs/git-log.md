@@ -1,3 +1,3 @@
 # Example output of "git log --graph --oneline"
 
-![](https://i.imgur.com/AE3Wyp9.png)
+![](https://i.imgur.com/K7M8sxP.png)
