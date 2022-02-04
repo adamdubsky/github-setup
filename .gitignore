@@ -1,5 +1,6 @@
 # Executable files
 a.out
+a.exe
 main
 
 # Generated files
@@ -36,5 +37,8 @@ target
 
 *.zip
 *.lnk
+*.tar
+*.tgz
+*.tar.gz
 
 TravelPlan
