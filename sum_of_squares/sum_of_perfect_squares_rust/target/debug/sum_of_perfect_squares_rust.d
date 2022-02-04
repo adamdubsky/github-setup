@@ -1,1 +1,0 @@
-/home/ryscith/College/Year3Junior/CS3560/HW10-GitContribution/examples/sum_of_squares/sum_of_perfect_squares_rust/target/debug/sum_of_perfect_squares_rust: /home/ryscith/College/Year3Junior/CS3560/HW10-GitContribution/examples/sum_of_squares/sum_of_perfect_squares_rust/src/main.rs
