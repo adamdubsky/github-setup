@@ -31,6 +31,8 @@ Debug
 *.sln
 *.vcxproj*
 
+# Rust
+target
 
 *.zip
 *.lnk
