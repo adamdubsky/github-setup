@@ -41,4 +41,6 @@ target
 *.tgz
 *.tar.gz
 
+# Example files created on the fly
 TravelPlan
+Weather
