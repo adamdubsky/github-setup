@@ -1,7 +1,16 @@
+# General purpose
+
+* git
+* github
+
 # C++
 
 * [Valgrind](https://valgrind.org/)
 * Doxygen
+* CppCheck
+* Catch2
+* Google Test Framework
+* Valgrind (Linux-only)
 
 # Java
 
@@ -20,4 +29,6 @@
 
 
 # GUI Prototyping
+
+* [figma](https://www.figma.com/)
 
