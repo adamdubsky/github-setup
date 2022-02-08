@@ -1,5 +1,6 @@
 # CS3560 Example Projects
-"Fib" - an example project that uses Doxygen, Makefile, Catch2, Travis CI.
+
+"Fib" - an example project for tool use.
 =======
 "Fib" is an example project that uses Doxygen, Makefile, Catch2, and of course Git.
 
