@@ -1,7 +1,7 @@
 # CS3560 Example Projects
-An example project that uses Doxygen, Makefile, Catch2, Travis CI.
+"Fib" - an example project that uses Doxygen, Makefile, Catch2, Travis CI.
 =======
-This is an example project that uses Doxygen, Makefile, Catch2, and of course Git.
+"Fib" is an example project that uses Doxygen, Makefile, Catch2, and of course Git.
 
 This is a simple project that contains some of the tools used in the class, including:
 
@@ -13,7 +13,7 @@ This is a simple project that contains some of the tools used in the class, incl
 - Travis CI (to be moved to Github Actions).
 - maybe Google Test Framework (using Docker image)
 
-## Contributions that will be welcomed
+## Contributions are welcome
 
 - Converting Travis CI actions (if any) to Github Actions (or just add Github Actions)
 - A new simple coding project suitable for unit testing and documentation exercises (just like the fib or is_prime examples)
@@ -38,3 +38,4 @@ to [https://ou-cs3560-examples.netlify.com/](https://ou-cs3560-examples.netlify.
 - https://github.com/OU-CS3560/examples (this page)
 - https://www.youtube.com/watch?v=nT8KGYVurIU (Info on Forking & Pull Requests)
 - ssh YOURNAME@pu1.cs.ohio.edu (Stocker Center 3rd Floor Linux Computers. Stocker 307, 18 computers)
+- (restricted access) tensor.internal.vital.kchusap.com
