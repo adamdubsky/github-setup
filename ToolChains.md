@@ -5,12 +5,11 @@
 
 # C++
 
-* [Valgrind](https://valgrind.org/)
+* [Valgrind](https://valgrind.org/) (Linux-only)
 * Doxygen
 * CppCheck
 * Catch2
 * Google Test Framework
-* Valgrind (Linux-only)
 
 # Java
 
