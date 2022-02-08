@@ -1,9 +1,9 @@
-# Contributing to class repository
+# Contributing to the class repository
 
 ## Overview
 
 This repository is the collection of examples that are used in Ohio University's CS3560 class. For a complete example of a toy project please see `fib/`.
-For Makefile related examples, please see `make.example\d+`. For focus examples on unittesting for various languages, please see `unittesting.examples`.
+For Makefile related examples, please see `make.example\d+`. For examples on unittesting for various languages, please see `unittesting.examples`.
 
 ## Contributing
 
