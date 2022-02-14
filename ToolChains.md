@@ -1,12 +1,13 @@
 # General purpose
 
 * git
-* github
+* [github](https://github.com/OU-CS3560/examples)
+* [Doxygen](https://www.doxygen.nl/)
+  * A good example: https://github.com/emweb/wt/blob/master/src/Wt/Payment/PayPal.h
 
 # C++
 
 * [Valgrind](https://valgrind.org/) (Linux-only)
-* Doxygen
 * CppCheck
 * Catch2
 * Google Test Framework
