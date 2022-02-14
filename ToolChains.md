@@ -1,4 +1,4 @@
-# General purpose
+# General purpose tools that work for most projects
 
 * [git](https://git-scm.com/)
 * [github](https://github.com/OU-CS3560/examples)
