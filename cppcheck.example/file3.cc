@@ -8,12 +8,12 @@ void f1(struct fred_t *p)
 
 void f2()
 {
-    const char *p = NULL;
+    const char *p2 = NULL;
     for (int i = 0; str[i] != '\0'; i++)
     {
         if (str[i] == ' ')
         {
-            p = str + i;
+            p2 = str + i;
             break;
         }
     }
@@ -25,10 +25,10 @@ void f2()
 
 void f3(int a)
 {
-    struct fred_t *p = NULL;
+    struct fred_t *p3 = NULL;
     if (a == 1)
-        p = fred1;
+        p3 = fred1;
 
     // if a is not 1 then p is NULL
-    p->x = 0;
+    p3->x = 0;
 }
