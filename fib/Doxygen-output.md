@@ -4,9 +4,7 @@ chang@DESKTOP-IQUDJD0:~/gitwork/examples/fib$ ls
 Doxyfile          HaskellFibTranslation  PythonFibTranslation fib.arr  fib.h         fib_cache.h         fib_fast_double.h lib     
 GoFibTranslation  Makefile               README.md            fib.cc   fib_cache.cc  fib_fast_double.cc  fib_rust.rs       main.cc
 ```
-<pre>
-chang@DESKTOP-IQUDJD0:~/gitwork/examples/fib$ <b>doxygen</b>
-</pre>
+<pre>chang@DESKTOP-IQUDJD0:~/gitwork/examples/fib$ <b>doxygen</b></pre>
 ```
 warning: ignoring unsupported tag `OUTPUT_TEXT_DIRECTION  =' at line 102, file Doxyfile
 warning: ignoring unsupported tag `JAVADOC_BANNER         =' at line 208, file Doxyfile
