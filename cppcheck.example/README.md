@@ -6,6 +6,12 @@ g++ file1.cc
 cppcheck file1.cc
 ```
 
+Or
+
+```
+cppcheck *.cc
+```
+
 # Links
 
 * https://cppcheck.sourceforge.io/demo/
