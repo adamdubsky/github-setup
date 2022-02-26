@@ -1,4 +1,4 @@
-# CS3560 Example Projects
+# CS3560 Examples 
 
 "Fib" - an example project for tool use.
 =======
