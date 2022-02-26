@@ -7,7 +7,7 @@
   * A good example: [Source](https://github.com/emweb/wt/blob/master/src/Wt/Payment/PayPal.h) -> [Result](https://www.webtoolkit.eu/wt/doc/reference/html/classWt_1_1Payment_1_1PayPalService.html)
   * Another good example: [cppcheck documentation](https://cppcheck.sourceforge.io/devinfo/doxyoutput/)
 * [Coverity Scan](https://scan.coverity.com/)
-* Regular Expressions: [Syntax](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference); [JFLAP](https://www.jflap.org/)
+* Regular Expressions: [vim](http://www.vimregex.com/); [Microsoft syntax](https://docs.microsoft.com/en-us/dotnet/standard/base-types/regular-expression-language-quick-reference); [JFLAP](https://www.jflap.org/)
 
 # C++
 
