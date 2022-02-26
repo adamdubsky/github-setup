@@ -40,3 +40,4 @@ to [https://ou-cs3560-examples.netlify.com/](https://ou-cs3560-examples.netlify.
 - https://www.youtube.com/watch?v=nT8KGYVurIU (Info on Forking & Pull Requests)
 - ssh YOURNAME@pu1.cs.ohio.edu (Stocker Center 3rd Floor Linux Computers. Stocker 307, 18 computers)
 - (restricted access) tensor.internal.vital.kchusap.com
+- [Spring 2022 Irvine 199 Teams meeting link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjcxMWQ1YzAtOWJjMC00NWFjLTgxYjktYmFlNDFlOTA4ZTg1%40thread.v2/0?context=%7b%22Tid%22%3a%22f3308007-477c-4a70-8889-34611817c55a%22%2c%22Oid%22%3a%221d143496-ae16-4394-beaa-37aa1d46b225%22%7d)
